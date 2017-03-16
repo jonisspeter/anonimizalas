@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Earth>
+	<AmericanContinent>
+		<NorthAmerican>
+			<American/>
+		</NorthAmerican>
+	</AmericanContinent>
+	<EurAsian>
+		<European>
+			<Russian/>
+			<French/>
+		</European>
+		<Asian>
+			<Indian/>
+			<Japanese/>
+		</Asian>
+	</EurAsian>
+</Earth>
