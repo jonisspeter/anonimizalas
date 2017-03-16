@@ -1,1 +1,2 @@
 # anonimizalas
+#aj ve
