@@ -15,3 +15,4 @@ Test Citizen13;248-22-2957;13053;37;Indian;Cancer
 Test Citizen14;221-22-9713;13068;36;Japanese;Cancer
 Test Citizen15;615-84-1924;13068;32;American;Cancer
 Test Citizen16;615-84-1924;13068;32;American;Cancer
+Test Citizen16;615-84-0000;13968;99;American;Cancer
