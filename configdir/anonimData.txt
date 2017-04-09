@@ -1,4 +1,0 @@
-130**20<..<40EurAsian,30
-130**20<..<40AmericanContinent,30
-148**40<..<60EurAsian,18
-148**40<..<60AmericanContinent,12
